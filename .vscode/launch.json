@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "problem1282",
+            "request": "launch",
+            "mainClass": "Leetcode.problem1282",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "bestTimeToBuyAndSellStocks",
+            "request": "launch",
+            "mainClass": "bestTimeToBuyAndSellStocks",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "countInversions",
+            "request": "launch",
+            "mainClass": "countInversions",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "fidnPeakElement",
+            "request": "launch",
+            "mainClass": "fidnPeakElement",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "kadansAlgorithm",
+            "request": "launch",
+            "mainClass": "kadansAlgorithm",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "longestConsecutiveSubsequence",
+            "request": "launch",
+            "mainClass": "longestConsecutiveSubsequence",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "mergeSort",
+            "request": "launch",
+            "mainClass": "mergeSort",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "minNoOfJumps",
+            "request": "launch",
+            "mainClass": "minNoOfJumps",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "minSwapsAndKTogether",
+            "request": "launch",
+            "mainClass": "minSwapsAndKTogether",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "minimizeHeightsI",
+            "request": "launch",
+            "mainClass": "minimizeHeightsI",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "minimizeHeightsII",
+            "request": "launch",
+            "mainClass": "minimizeHeightsII",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "smallestSubArrayWithSumGreater",
+            "request": "launch",
+            "mainClass": "smallestSubArrayWithSumGreater",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "spiralTraversalMatrix",
+            "request": "launch",
+            "mainClass": "spiralTraversalMatrix",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "spiralTraversalMatrix01",
+            "request": "launch",
+            "mainClass": "spiralTraversalMatrix01",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "trappingRainWater",
+            "request": "launch",
+            "mainClass": "trappingRainWater",
+            "projectName": "Competitive-Coding_802a9253"
+        },
+        {
+            "type": "java",
+            "name": "medianOfRowWise",
+            "request": "launch",
+            "mainClass": "medianOfRowWise",
+            "projectName": "Competitive-Coding_802a9253"
+        }
+    ]
+}

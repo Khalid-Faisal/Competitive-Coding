@@ -1,0 +1,133 @@
+Week 1: Arrays
+
+Monday (E): Remove Duplicates from Sorted Array
+Monday (M): Product of Array Except Self
+Monday (M): 3Sum
+Tuesday (E): Best Time to Buy and Sell Stock
+Tuesday (M): Combination Sum II
+Tuesday (H): Trapping Rain Water
+Wednesday (E): Move Zeroes
+Wednesday (M): First Missing Positive
+Wednesday (H): Search in Rotated Sorted Array
+Thursday (E): Find K Closest Elements
+Thursday (M): Valid Anagram
+Thursday (H): Find Peak Element
+Friday (E): First Bad Version
+Friday (M): Find All Duplicates in an Array
+Friday (H): Kth Largest Element in an Array
+
+Week 2: Linked Lists
+
+Monday (E): Reverse Linked List
+Monday (M): Add Two Numbers
+Monday (M): Middle of the Linked List
+Tuesday (E): Odd Even Linked List
+Tuesday (M): Palindrome Linked List
+Tuesday (H): Intersection of Two Linked Lists
+Wednesday (E): Remove Nth Node From End of List
+Wednesday (M): Merge k Sorted Lists
+Wednesday (H): Reverse Nodes in k-Group
+Thursday (E): Merge Two Sorted Lists
+Thursday (M): Rotate List
+Thursday (H): Copy List with Random Pointer
+Friday (E): Linked List Cycle
+Friday (M): Flatten a Multilevel Doubly Linked List
+Friday (H): Reorder List
+
+Week 3: Strings
+
+Monday (E): Reverse String
+Monday (M): Longest Substring Without Repeating Characters
+Monday (H): Regular Expression Matching
+Tuesday (E): Valid Palindrome
+Tuesday (M): Group Anagrams
+Tuesday (H): Longest Palindromic Substring
+Wednesday (E): Implement strStr()
+Wednesday (M): Minimum Window Substring
+Wednesday (H): Edit Distance
+Thursday (E): Count and Say
+Thursday (M): Valid Parentheses
+Thursday (H): Longest Common Subsequence
+Friday (E): String to Integer (atoi)
+Friday (M): ZigZag Conversion
+Friday (H): Wildcard Matching
+
+Week 4: Trees
+
+Monday (E): Maximum Depth of Binary Tree
+Monday (M): Binary Tree Inorder Traversal
+Monday (H): Serialize and Deserialize Binary Tree
+Tuesday (E): Symmetric Tree
+Tuesday (M): Construct Binary Tree from Preorder and Inorder Traversal
+Tuesday (H): Lowest Common Ancestor of a Binary Tree
+Wednesday (E): Same Tree
+Wednesday (M): Subtree of Another Tree
+Wednesday (H): Validate Binary Search Tree
+Thursday (E): Path Sum
+Thursday (M): Binary Tree Level Order Traversal
+Thursday (H): Count Complete Tree Nodes
+Friday (E): Balanced Binary Tree
+Friday (M): Populating Next Right Pointers in Each Node
+Friday (H): Binary Tree Maximum Path Sum
+
+Week 5: Searching & Sorting
+
+Monday (E): Linear Search
+Monday (M): Binary Search
+Monday (H): Find Minimum in Rotated Sorted Array
+Tuesday (E): First Bad Version
+Tuesday (M): Search in Rotated Sorted Array
+Tuesday (H): Search in a 2D Matrix II
+Wednesday (E): Intersection of Two Arrays II
+Wednesday (M): Majority Element
+Wednesday (H): Find Peak Element
+Thursday (E): Two Sum II - Input array is sorted
+Thursday (M): Kth Smallest Element in a Sorted Matrix
+Thursday (H): Median of Two Sorted Arrays
+Friday (E): Merge Intervals
+Friday (M): Count of Smaller Numbers After Self
+Friday (H): Search a 2D Matrix
+
+Week 6: Dynamic Programming
+
+Monday (E): Fibonacci Number
+Monday (M): Climbing Stairs
+Monday (H): Coin Change
+Tuesday (E): Maximum Subarray
+Tuesday (M): Longest Increasing Subsequence
+Tuesday (H): Word Break
+Wednesday (E): House Robber
+Wednesday (M): Best Time to Buy and Sell Stock
+Wednesday (H): Longest Common Subsequence
+Thursday (E): Unique Paths
+Thursday (M): Unique Paths II
+Thursday (H): Longest Palindromic Subsequence
+Friday (E): Decode Ways
+Friday (M): Burst Balloons
+Friday (H): Dungeon Game
+
+Week 7: Miscellaneous
+
+Monday (E): Factorial Trailing Zeroes
+Monday (M): Missing Number
+Monday (H): First Missing Positive
+Tuesday (E): Power of Two
+Tuesday (M): Power of Three
+Tuesday (H): Power of Four
+Wednesday (E): Count Primes
+Wednesday (M): Happy Number
+Wednesday (H): Valid Sudoku
+Thursday (E): Isomorphic Strings
+Thursday (M): Meeting Rooms II
+Thursday (H): Alien Dictionary
+Friday (E): Single Number
+Friday (M): Meeting Rooms
+Friday (H): Sudoku Solver
+
+Week 8: Mock Interviews and Revision
+
+Saturday: Mock Interview 1
+Sunday: Review Mock Interview 1
+Monday: Mock Interview 2
+Tuesday: Review Mock Interview 2
+Wednesday: Revision and Practice
